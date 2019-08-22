@@ -1,0 +1,8 @@
+.casilla{
+		width:100%;
+		margin-bottom: 20px;
+	}
+	.container{
+		background-image: url("../site-images/running_copia.jpg");
+		background-size: cover;
+	}

@@ -1,0 +1,28 @@
+.contenedor{
+	width: 100%;
+}
+.evento{
+	margin: 2px;
+	padding: 5px;
+	background: #eaeaea;
+}
+.foto-evento{
+	margin: 0px auto;
+}
+.foto-evento img{
+	width: 100%;
+	
+}
+h3{
+	padding: 5px 10px 5px 10px;
+}
+.cat, .fech, .organizador, .ciudad, .precio{
+	padding: 3px 12px 3px 12px;
+}
+.noticia{
+	padding: 5px 20px;
+	background: #fefefe;
+	box-shadow: 3px 3px #cacaca;
+	border: 1px solid teal;
+	
+}
