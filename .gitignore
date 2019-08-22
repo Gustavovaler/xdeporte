@@ -1,0 +1,5 @@
+# Ignora tanto MainWindow.nib y builds/MainWindow.nib
+*.nib
+
+#Ignora todos los ficheros que empiecen por "bg-" y acaben en ".jpg"
+bg-*.jpg
